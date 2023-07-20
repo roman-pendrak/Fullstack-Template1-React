@@ -1,5 +1,5 @@
 # Fullstack-Template1-React :man_technologist:
-Modern full stack front end template using latest technologies :zap:
+Modern React full stack template using latest technologies :zap:
 
 # Install Node 18+, clone the project, install packages, and run!
 Node Version Manager For Windows: https://github.com/coreybutler/nvm-windows/releases
