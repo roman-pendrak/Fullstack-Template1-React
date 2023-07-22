@@ -17,7 +17,6 @@ $ npm run build
 $ npm run preview
 ```
 # Auth0 Setup :lock:
-Authentication is not enabled out of the box but configuration is simple.
 Follow the steps below to enable OAuth using the auth0-react package
 ---
 *** Skip steps 1-3 if you already configured Auth0 using the Fullstack-Template1-React project ***
